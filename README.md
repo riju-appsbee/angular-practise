@@ -1,2 +1,2 @@
 # angular-practise
-test
+Basic Angular CRUD for beginners.
